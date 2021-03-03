@@ -1,7 +1,7 @@
 {
-  "name": "WebShop",
+  "name": "webshop",
   "version": "1.0.0",
-  "description": "Second Assignment",
+  "description": "Base of website with NodeJS",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,5 +15,18 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaobcpatricio/NodeJS-WebShop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaobcpatricio/NodeJS-WebShop/issues"
+  },
+  "homepage": "https://github.com/joaobcpatricio/NodeJS-WebShop#readme",
+  "keywords": [
+    "node.js",
+    "html",
+    "CSS"
+  ]
 }
